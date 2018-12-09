@@ -21,13 +21,8 @@
 	border-radius: 50%;
 }
 
-@font-face {
-  font-family: Moderne Sans Serif 7 Font;
-  src: url(https://www.1001fonts.com/modern-sans-serif-7-font.html);
-}
-
 .name {
-	font-family: Moderne Sans Serif 7 Font;
+	font-family: Century Gothic;
 	grid-column: 2/4;
 	padding: 155px 120px 155px 70px;
 }

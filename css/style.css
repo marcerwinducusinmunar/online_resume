@@ -3,7 +3,7 @@
 .top-div {
 	display: grid;
 	grid-template-columns: repeat(3, 1fr);
-	background: #404c63;
+	background: #d2d2d2;
 	background-image: url(../images/main-background.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
